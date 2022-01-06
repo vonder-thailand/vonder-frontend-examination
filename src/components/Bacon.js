@@ -1,6 +1,6 @@
 import { IngredientContainer } from "../Common/Common";
 
 const Bacon = () => {
-  return <IngredientContainer></IngredientContainer>;
+  return <IngredientContainer>Bacon</IngredientContainer>;
 };
 export default Bacon;

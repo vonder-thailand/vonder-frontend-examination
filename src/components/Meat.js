@@ -1,6 +1,6 @@
 import { IngredientContainer } from "../Common/Common";
 
 const Meat = () => {
-  return <IngredientContainer></IngredientContainer>;
+  return <IngredientContainer>Meat</IngredientContainer>;
 };
 export default Meat;
