@@ -1,5 +1,6 @@
+import { IngredientContainer } from "../Common/Common";
+
 const PicleCucumber = () => {
-    return <div></div>;
-  };
-  export default PicleCucumber;
-  
+  return <IngredientContainer></IngredientContainer>;
+};
+export default PicleCucumber;

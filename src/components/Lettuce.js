@@ -1,5 +1,7 @@
+import { IngredientContainer } from "../Common/Common";
+
 const Lettuce = () => {
-    return <div></div>;
+    return <IngredientContainer></IngredientContainer>;
   };
   export default Lettuce;
   

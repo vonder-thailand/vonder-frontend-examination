@@ -1,5 +1,6 @@
+import { IngredientContainer } from "../Common/Common";
+
 const Bacon = () => {
-    return <div></div>;
-  };
-  export default Bacon;
-  
+  return <IngredientContainer></IngredientContainer>;
+};
+export default Bacon;

@@ -9,6 +9,8 @@ export const Banner = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 32px;
+  background: wheat;
 `;
 export const Container = styled.div`
   width: 100%;
@@ -16,4 +18,9 @@ export const Container = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+`;
+
+export const IngredientContainer = styled.div`
+  width: 300px;
+  height: 50px;
 `;
